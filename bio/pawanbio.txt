@@ -1,0 +1,3 @@
+My name is pawan pradhan. Im currently studying as a B.com student in jawaharlal Nehru college.
+And also im learning c programming language together as a Commerce student.
+This is a small introduction about myself. Im creating this file, in order to learn git and github, as a basic of a programmer.
